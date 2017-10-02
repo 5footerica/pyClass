@@ -1,7 +1,7 @@
 import sys, pygame
 pygame.init()
 pygame.key.set_repeat (1, 1)
-size = width, height = 800, 500             
+size = width, height = 500, 340             
 speed = [0, 0]
 black = 0, 0, 0
 white = 100, 0, 200
